@@ -1,4 +1,4 @@
-package org.example.com.stimmax.kotlincourse.lessons.lesson03
+package com.stimmax.kotlincourse.lessons.lesson03.homework
 
 class Homework {
     // 1. Название мероприятия (неизменяемая публичная переменная, известная заранее)
